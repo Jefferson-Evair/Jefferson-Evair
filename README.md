@@ -2,9 +2,9 @@
 
 **`Em transição para Data Science`**
 
-Sou Engenheiro de Produção formado, atualmente atuando como Analista de Suporte e Sistemas Pleno na Notaro Alimentos (Natto), em Belo Jardim/PE — uma indústria de **abate e processamento de aves**. Trabalho diariamente com SQL Server em ambientes industriais complexos: modelagem de queries analíticas sobre dados de produção (cortes, miúdos, expedição refrigerada), debugging de performance, integração com ERPs (Sankhya) e construção de dashboards em Metabase e Power BI para áreas de PCP, Controladoria e Logística.
+Sou Engenheiro de Produção formado, atualmente atuando como Analista de Suporte e Sistemas Pleno na Notaro Alimentos (Natto), em Belo Jardim/PE — uma indústria de **abate e processamento de aves**. Trabalho diariamente com SQL Server em ambientes industriais complexos: modelagem de queries analíticas sobre dados de produção, debugging de performance, integração com ERPs (Sankhya) e construção de dashboards em Metabase e Power BI para áreas de PCP, Controladoria e Logística.
 
-Minha trajetória vai do chão de fábrica ao banco de dados: comecei em PCP e hoje atuo na ponte entre TI e operação industrial, com foco crescente em **Engenharia e Ciência de Dados**. Uso o **Claude Code** diariamente para acelerar o desenvolvimento de soluções internas — de queries analíticas complexas a automações operacionais. A partir do segundo semestre de 2026, inicio minha pós-graduação em **Data Science**, consolidando uma migração estruturada para a área de dados.
+Minha trajetória vai do chão de fábrica ao banco de dados: comecei em PCP e hoje atuo na ponte entre TI e operação industrial, com foco crescente em **Engenharia e Ciência de Dados**. Uso o **Claude Code** diariamente para acelerar o desenvolvimento de soluções internas — de queries analíticas complexas, automações e sistemas SAAS. Atualmente, estou cursando uma pós-graduação em **Data Science**, consolidando uma migração estruturada para a área de dados.
 
 Aqui no GitHub compartilho um pouco dos meus estudos.
 
