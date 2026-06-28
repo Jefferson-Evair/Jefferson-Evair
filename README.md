@@ -6,7 +6,7 @@ Sou Engenheiro de Produção formado, atualmente atuando como Analista de Suport
 
 Minha trajetória vai do chão de fábrica ao banco de dados: comecei em PCP e hoje atuo na ponte entre TI e operação industrial, com foco crescente em **Engenharia e Ciência de Dados**. Uso o **Claude Code** diariamente para acelerar o desenvolvimento de soluções internas — de queries analíticas complexas, automações e sistemas SAAS. Atualmente, estou cursando uma pós-graduação em **Data Science**, consolidando uma migração estruturada para a área de dados.
 
-Aqui no GitHub compartilho um pouco dos meus estudos.
+Aqui no GitHub compartilho um pouco dos meus trabalhos nas horas livres.
 
 ---
 
